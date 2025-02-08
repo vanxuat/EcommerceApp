@@ -1,0 +1,15 @@
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/bin/Debug/net8.0/ECommerceSolution.Data.deps.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/bin/Debug/net8.0/ECommerceSolution.Data.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/bin/Debug/net8.0/ECommerceSolution.Data.pdb
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.AssemblyInfoInputs.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.AssemblyInfo.cs
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.csproj.CoreCompileInputs.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.sourcelink.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/refint/ECommerceSolution.Data.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.pdb
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ref/ECommerceSolution.Data.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/bin/Debug/net8.0/ECommerceSolution.Data.runtimeconfig.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.csproj.AssemblyReference.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.genruntimeconfig.cache

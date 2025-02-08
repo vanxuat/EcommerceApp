@@ -1,29 +1,30 @@
 {
-    "name": "DotNet 8 Dev Environment",
-    "dockerComposeFile": "docker-compose.yaml",
-    "service": "ecommerceshop",
-    "workspaceFolder": "/ecommerceShop",
-    "features": {
-      "ghcr.io/devcontainers/features/docker-in-docker:2": {
-        "version": "latest"
-      }
-    },
-    "customizations": {
-      "vscode": {
-        "settings": {
-          "editor.formatOnSave": true,
-          "terminal.integrated.defaultProfile.linux": "bash"
-        },
-        "extensions": [
-          "ms-dotnettools.csdevkit",
-          "ms-dotnettools.csharp",
-          "editorconfig.editorconfig",
-          "eamodio.gitlens",
-          "streetsidesoftware.code-spell-checker"
-        ]
-      }
-    },
-    // "postCreateCommand": "dotnet --info",
-    "remoteUser": "root"
-  
+  "name": "DotNet 8 Dev Environment",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "workspaceFolder": "/workspaces",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp",
+        "editorconfig.editorconfig",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  },
+  "postCreateCommand": "dotnet --info",
+  "remoteUser": "root"
 }

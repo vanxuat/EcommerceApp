@@ -1,0 +1,12 @@
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/bin/Debug/net8.0/ECommerceSolution.Application.deps.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/bin/Debug/net8.0/ECommerceSolution.Application.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/bin/Debug/net8.0/ECommerceSolution.Application.pdb
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.AssemblyInfoInputs.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.AssemblyInfo.cs
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.csproj.CoreCompileInputs.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.sourcelink.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/refint/ECommerceSolution.Application.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ECommerceSolution.Application.pdb
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Application/obj/Debug/net8.0/ref/ECommerceSolution.Application.dll

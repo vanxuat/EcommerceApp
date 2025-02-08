@@ -10,3 +10,6 @@
 /workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/refint/ECommerceSolution.Data.dll
 /workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.pdb
 /workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ref/ECommerceSolution.Data.dll
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/bin/Debug/net8.0/ECommerceSolution.Data.runtimeconfig.json
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.csproj.AssemblyReference.cache
+/workspaces/ecommerceShop/src/Domain/ECommerceSolution.Data/obj/Debug/net8.0/ECommerceSolution.Data.genruntimeconfig.cache

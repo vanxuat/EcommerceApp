@@ -15,22 +15,22 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
       - DOTNET_USE_POLLING_FILE_WATCHER=1
     command: ["tail", "-f", "/dev/null"]  # Keeps the container running
-    depends_on:
-      - sqlserver
+    # depends_on:
+    #   - sqlserver
     networks:
       - app_network
 
-  sqlserver:
-    image: mcr.microsoft.com/azure-sql-edge
-    container_name: sql_edge
-    restart: always
-    ports:
-      - "1433:1433"
-    environment:
-      SA_PASSWORD: "1234Asdf"
-      ACCEPT_EULA: "Y"
-    networks:
-      - app_network
+  # sqlserver:
+  #   image: mcr.microsoft.com/azure-sql-edge
+  #   container_name: sql_edge
+  #   restart: always
+  #   ports:
+  #     - "1433:1433"
+  #   environment:
+  #     SA_PASSWORD: "1234Asdf"
+  #     ACCEPT_EULA: "Y"
+  #   networks:
+  #     - app_network
 
 networks:
   app_network:

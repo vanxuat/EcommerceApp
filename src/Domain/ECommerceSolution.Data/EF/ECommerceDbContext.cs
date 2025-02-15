@@ -2,11 +2,12 @@ using ECommerceSolution.Data.Configurations;
 using ECommerceSolution.Data.Entities;
 using ECommerceSolution.Data.Extensions;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceSolution.Data.EF;
 
-public class ECommerceDbContext : DbContext
+public class ECommerceDbContext : IdentityDbContext<AppUser, AppRole, Guid>
 {
     public ECommerceDbContext(DbContextOptions options) : base(options)
     {
